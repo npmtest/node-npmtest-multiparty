@@ -1,7 +1,7 @@
 # test coverage for  [multiparty (v4.1.3)](https://github.com/pillarjs/multiparty#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-multiparty.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multiparty) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multiparty.svg)](https://travis-ci.org/npmtest/node-npmtest-multiparty)
 #### multipart/form-data parser which supports streaming
 
-[![NPM](https://nodei.co/npm/multiparty.png?downloads=true)](https://www.npmjs.com/package/multiparty)
+[![NPM](https://nodei.co/npm/multiparty.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/multiparty)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-multiparty/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-multiparty/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-multiparty/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-multiparty/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-multiparty/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-multiparty/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-multiparty/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-multiparty/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-multiparty/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-multiparty/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-multiparty%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-multiparty/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-multiparty/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-multiparty/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-multiparty/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-multiparty%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-multiparty/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-multiparty/build/test-report.html](https://npmtest.github.io/node-npmtest-multiparty/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-multiparty/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-multiparty/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-multiparty/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-multiparty/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-multiparty/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-multiparty/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-multiparty/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Andrew Kelley",
-        "email": "superjoe30@gmail.com"
+        "name": "Andrew Kelley"
     },
     "bugs": {
         "url": "https://github.com/pillarjs/multiparty/issues"
@@ -69,17 +74,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "superjoe",
-            "email": "superjoe30@gmail.com"
+            "name": "superjoe"
         },
         {
-            "name": "dougwilson",
-            "email": "doug@somethingdoug.com"
+            "name": "dougwilson"
         }
     ],
     "name": "multiparty",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/pillarjs/multiparty.git"
